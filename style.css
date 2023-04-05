@@ -1,0 +1,31 @@
+* {
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box; 
+}
+.main {
+    width: 763px;
+    height: 531px;
+    background-color:rgba(143, 231, 202, 0.808);
+    border-radius: 10px;
+}
+h1 {
+    text-indent: 140px;
+}
+p {
+    text-indent: 20px;
+}
+.p3 {
+    margin-top: 30px;
+}
+.first, .second, .third {
+    width: 753px;
+    height: 158px;
+    background-color: #34495E;
+    border-radius: 20px; 
+    margin: 5px;
+    padding: 21px;
+    color: azure;
+    font-size: medium;
+}
+/* хотел как лучше, получилось как получилось) */
